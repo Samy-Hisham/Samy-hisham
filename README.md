@@ -3,8 +3,6 @@
 
 - 📫 How to reach me **samyhisham992@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NJpyDY59XXPdi20A_78rqebpGacfXs59/view?usp=sharing](https://drive.google.com/file/d/1NJpyDY59XXPdi20A_78rqebpGacfXs59/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/samy__hesham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samy__hesham" height="30" width="40" /></a>
